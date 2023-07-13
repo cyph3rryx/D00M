@@ -4,7 +4,7 @@ D00M Game is a text-based game implemented in Python, inspired by the classic DO
 
 ## Gameplay
 
-In D00M Game, you control a player character represented by the letter "P". Your goal is to navigate through a maze, find the exit ("X"), and avoid being caught by the enemy ("E").
+In D00M Game, you control a player character represented by the letter "P". Your goal is to navigate through a maze, find the exit ("X"), and avoid being caught by the enemy ("E")
 
 Use the "W/A/S/D" keys to move the player character in the up, left, down, and right directions, respectively. Press the space bar to shoot projectiles at the enemy. The game ends when you reach the exit, or if you collide with the enemy.
 
